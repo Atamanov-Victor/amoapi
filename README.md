@@ -1,4 +1,4 @@
-# amoapi
+# Amoapi
 Easy api helper for AMOCRM with examples! <br>
 Provided AmoHelper Class runs on Amocrm library version 0.4.1 (it's important). Wich you can easily choose in your composer. <br>
 If you are installing it on October CMS (like i did), this command should help you: <br>
